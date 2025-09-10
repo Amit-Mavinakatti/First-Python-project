@@ -1,0 +1,19 @@
+<FactScreen>:
+    name: "fact"
+    
+    BoxLayout:
+        orientation: "vertical"
+
+        MDToolbar:
+            title: "Discover Facts"
+            pos_hint: {"top": 1}
+            left_action_items: [["arrow-left", lambda x: app.change_screen("home")]]
+        
+        MDLabel:
+            id: fact_label
+            text: "Click the button to see a fact!"
+            halign: "center"
+
+        MDRaisedButton:
+            text: "New Fact"
+            on_release: app.show_random_fact()

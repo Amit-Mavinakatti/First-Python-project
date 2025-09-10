@@ -1,0 +1,303 @@
+from kivy.lang import Builder
+from kivymd.app import MDApp
+from kivymd.uix.screenmanager import MDScreenManager
+from kivymd.uix.screen import MDScreen
+from kivy.uix.scrollview import ScrollView
+import random
+from kivy.metrics import dp
+from kivymd.uix.dialog import MDDialog
+
+KV = """
+MDScreenManager:
+    HomeScreen:
+    ProfileScreen:
+    FactScreen:
+    AboutScreen:
+    ContactScreen:
+
+<HomeScreen>:
+    name: "home"
+    MDBoxLayout:
+        orientation: "vertical"
+
+        MDTopAppBar:
+            title: "WakeUp"
+            pos_hint: {"top": 1}
+            right_action_items: [["theme-light-dark", lambda x: app.toggle_theme()], ["account-circle", lambda x: app.change_screen('profile')]]
+
+        ScrollView:
+            MDBoxLayout:
+                orientation: "vertical"
+                padding: dp(20)
+                spacing: dp(15)
+                size_hint_y: None
+                height: self.minimum_height
+
+                MDRaisedButton:
+                    text: "Start"
+                    size_hint_x: 0.8
+                    pos_hint: {"center_x": 0.5}
+                    on_release: app.change_screen('fact')
+
+                MDRaisedButton:
+                    text: "App Info"
+                    size_hint_x: 0.8
+                    pos_hint: {"center_x": 0.5}
+                    on_release: app.change_screen('about')
+
+                MDRaisedButton:
+                    text: "Contact Support"
+                    size_hint_x: 0.8
+                    pos_hint: {"center_x": 0.5}
+                    on_release: app.change_screen('contact')
+                 
+                MDRaisedButton:
+                    text: "Rate Us"
+                    size_hint_x: 0.8
+                    pos_hint: {"center_x": 0.5}
+                    on_release: app.show_thank_you_dialog()
+
+                MDRaisedButton:
+                    text: "Clear All Facts"
+                    size_hint_x: 0.8
+                    pos_hint: {"center_x": 0.5}
+                    on_release: app.clear_facts()
+
+                MDLabel:
+                    text: "Developed By: Mr. AMIT M D"
+                    pos_hint: {"right":1,"bottom":0}
+                    font_style: "Overline"
+                    color: 0, 0, 0, 1
+                    bold:True 
+                
+                MDLabel:
+                    text: "> For more info :"
+                    pos_hint: {"right":1,"bottom":0}
+                    font_style: "Overline"
+                    color: 0, 0, 0, 0.5
+                    bold:False
+
+                MDLabel:
+                    text: " ~~ Contact: 9353912665"
+                    pos_hint: {"right":1,"bottom":0}
+                    font_style: "Overline"
+                    color: 0, 0, 0, 0.5
+                    bold:False
+
+                MDLabel:
+                    text: " ~~ Email : amitmavinakatti1@gmail.com"
+                    pos_hint: {"right":1,"bottom":0}
+                    font_style: "Overline"
+                    color: 0, 0, 0, 0.5
+                    bold:False
+
+                MDLabel:
+                    text: " ~~ Whatsapp : 9353912665 "
+                    pos_hint: {"right":1,"bottom":0}
+                    font_style: "Overline"
+                    color: 0, 0, 0, 0.5
+                    bold:False
+
+                MDLabel:
+                    text: " ~~ Follow me at : www.instagram.com/a_m_i_t_m__08 "
+                    pos_hint: {"right":1,"bottom":0}
+                    font_style: "Overline"
+                    color: 0, 0, 0, 0.5
+                    bold:False
+
+                MDLabel:
+                    text: "> CopyRight 2025 "
+                    pos_hint: {"right":1,"bottom":0}
+                    font_style: "Overline"
+                    color: 0, 0, 0, 0.5
+                    bold:False
+
+                MDLabel:
+                    text: "> All Rights Reserved "
+                    pos_hint: {"right":1,"bottom":0}
+                    font_style: "Overline"
+                    color: 0, 0, 0, 0.5
+                    bold:False
+
+
+                
+       
+       
+<ProfileScreen>:
+    name: "profile"
+    MDBoxLayout:
+        orientation: "vertical"
+        padding: dp(300)
+        spacing: dp(20)
+
+        MDTopAppBar:
+            title: "Profile"
+            elevation: 4
+            left_action_items: [["arrow-left", lambda x: app.change_screen('home')]]
+
+
+         
+         
+<FactScreen>:
+    name: "fact"
+    MDBoxLayout:
+        orientation: "vertical"
+        padding: dp(20)
+
+        MDTopAppBar:
+            title: "Random Fact"
+            pos_hint: {"top": 1}
+            left_action_items: [["arrow-left", lambda x: app.change_screen('home')]]
+
+        MDLabel:
+            id: fact_label
+            text: " "
+            halign: "center"
+            font_style: "H6"
+
+        MDRaisedButton:
+            text: "New Fact"
+            size_hint_x: 0.8
+            pos_hint: {"center_x": 0.5}
+            on_release: app.show_fact()
+
+<AboutScreen>:
+    name: "about"
+    MDBoxLayout:
+        orientation: "vertical"
+        padding: dp(20)
+        spacing: dp(10)
+
+        MDTopAppBar:
+            title: "About WakeUp"
+            pos_hint: {"top": 1}
+            left_action_items: [["arrow-left", lambda x: app.change_screen('home')]]
+
+        MDLabel:
+            text: "WakeUp is an app that shares quick, random facts in fields such as SCIENCE, AI, PHYSICS, SPACE, TECHNOLOGY, etc."
+            halign: "center"
+            font_style: "H5"
+
+        MDLabel:
+            text: "It helps users to develop knowledge and curiosity."
+            halign: "center"
+            font_style: "H5"
+
+        MDLabel:
+            text: "Created by AMIT M D [Using: Python, Kivy, and Visual Studio Code]"
+            halign: "center"
+            font_style: "H4"
+            bold: True
+            theme_text_color: "Primary"
+
+<ContactScreen>:
+    name: "contact"
+    MDBoxLayout:
+        orientation: "vertical"
+        padding: dp(20)
+        spacing: dp(10)
+
+        MDTopAppBar:
+            title: "Contact Support"
+            pos_hint: {"top": 1}
+            left_action_items: [["arrow-left", lambda x: app.change_screen('home')]]
+
+        MDLabel:
+            text: "Creator: Mr. AMIT M D"
+            halign: "center"
+            font_style: "H4"
+            bold: True
+
+        MDLabel:
+            text: "Mobile: 9353912665"
+            halign: "center"
+            font_style: "H5"
+
+        MDLabel:
+            text: "Email: amitmavinakatti1@gmail.com"
+            halign: "center"
+            font_style: "H5"
+
+        MDLabel:
+            text: "Instagram: instagram.com/a_m_i_t_m__08"
+            halign: "center"
+            font_style: "H5"
+
+        MDLabel:
+            text: "WhatsApp: 9353912665"
+            halign: "center"
+            font_style: "H5"
+"""
+
+class HomeScreen(MDScreen):
+    pass
+
+class ProfileScreen(MDScreen):
+    pass
+
+class FactScreen(MDScreen):
+    pass
+
+class AboutScreen(MDScreen):
+    pass
+
+class ContactScreen(MDScreen):
+    pass
+
+class SettingsScreen(MDScreen):
+    pass
+
+
+class WakeUpApp(MDApp):
+    def build(self):
+        self.theme_cls.theme_style = "Light"
+        self.theme_cls.primary_palette = "Cyan"
+        self.load_facts()
+        return Builder.load_string(KV)
+
+    def load_facts(self):
+        """Loads facts from facts.txt, shuffles them, and resets the list when needed."""
+        try:
+            with open("facts.txt", "r", encoding="utf-8") as file:
+                self.facts = [line.strip() for line in file if line.strip()]
+        except FileNotFoundError:
+            self.facts = ["No facts found! Please add a facts.txt file."]
+
+        self.reset_fact_list()
+
+    def reset_fact_list(self):
+        """Shuffles facts and resets tracking to avoid immediate repetition."""
+        self.shuffled_facts = random.sample(self.facts, len(self.facts))
+
+    def toggle_theme(self):
+        """Toggles between Light and Dark theme."""
+        self.theme_cls.theme_style = "Dark" if self.theme_cls.theme_style == "Light" else "Light"
+
+    def change_screen(self, screen_name):
+        self.root.current = screen_name
+
+    def show_fact(self):
+        """Displays a random fact without immediate repetition."""
+        if not self.shuffled_facts:
+            self.reset_fact_list()
+
+        fact_label = self.root.get_screen('fact').ids.fact_label
+        fact_label.text = self.shuffled_facts.pop()
+
+    def show_thank_you_dialog(self):
+        """Displays a thank-you dialog when the 'Rate Us' button is pressed."""
+        dialog = MDDialog(
+            title="Thank You!",
+            text="Thanks for using the app. Please rate us on the Play Store!(Press Black screen to navigate.)",
+            size_hint=(0.8, 1)
+        )
+        dialog.open()
+
+    def clear_facts(self):
+        """Clears all facts and resets the list."""
+        self.reset_fact_list()
+        fact_label = self.root.get_screen('fact').ids.fact_label
+        fact_label.text = "All facts cleared!"
+
+if __name__ == "__main__":
+    WakeUpApp().run()

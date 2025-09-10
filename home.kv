@@ -1,0 +1,47 @@
+<Home>:
+    name: "home"
+
+    MDBoxLayout:
+        orientation: "vertical"
+
+        MDTopAppBar:
+            title: "WakeUp"
+            pos_hint: {"top": 1}
+            right_action_items: [["theme-light-dark", lambda x: app.toggle_theme()], ["account-circle", lambda x: app.change_screen('profile')]]
+
+        ScrollView:
+            MDBoxLayout:
+                orientation: "vertical"
+                padding: dp(20)
+                spacing: dp(10)
+                size_hint_y: None
+                height: self.minimum_height
+
+                MDRaisedButton:
+                    text: "Start Discover"
+                    size_hint_x: 0.8
+                    pos_hint: {"center_x": 0.5}
+                    on_release: app.change_screen('fact')
+
+                MDRaisedButton:
+                    text: "Info (About)"
+                    size_hint_x: 0.8
+                    pos_hint: {"center_x": 0.5}
+                    on_release: print("Info button clicked")
+
+                MDRaisedButton:
+                    text: "Contact Support"
+                    size_hint_x: 0.8
+                    pos_hint: {"center_x": 0.5}
+                    on_release: print("Contact Support button clicked")
+
+                MDRaisedButton:
+                    text: "Rate Us"
+                    size_hint_x: 0.8
+                    pos_hint: {"center_x": 0.5}
+                    on_release: print("Rate Us button clicked")
+
+        MDLabel:
+            text: "Developed By: Mr.AMIT M D"
+            halign: "center"
+            font_style: "Caption"

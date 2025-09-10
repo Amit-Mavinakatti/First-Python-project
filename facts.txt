@@ -1,0 +1,572 @@
+[Science] The speed of light is approximately 299,792 km/s.
+[Science] A single teaspoon of honey represents the life's work of 12 bees.
+[Science] Lightning is five times hotter than the surface of the Sun.
+[Science] The Earth's core is as hot as the surface of the Sun.
+[Science] A human body contains about 37.2 trillion cells.
+[Science] The Eiffel Tower can be 15 cm taller during summer due to heat expansion.
+[Science] The ozone layer absorbs 97-99% of the Sun's harmful UV radiation.
+[Science] The average human body carries ten times more bacterial cells than human cells.
+[Science] The Amazon rainforest produces 20% of the world's oxygen.
+[Science] The blue whale’s heart is as large as a small car.
+[Science] DNA from a single human cell can stretch to about 2 meters in length.
+[Science] A day on Venus is longer than its year.
+[Science] The human brain has around 86 billion neurons.
+[Science] The coldest temperature ever recorded on Earth was -89.2°C in Antarctica.
+[Science] The Earth’s rotation is gradually slowing at about 1.7 milliseconds per century.
+[Science] Sharks existed before trees — over 400 million years ago.
+[Science] The human nose can detect over 1 trillion scents.
+[Science] The Great Barrier Reef is the largest living structure on Earth.
+[Science] The Andromeda Galaxy is moving toward our Milky Way at 110 km/s.
+[Science] The average person sheds around 30,000 skin cells every minute.
+
+[Space] Neutron stars are so dense that a sugar-cube-sized piece weighs as much as a mountain.
+[Space] A day on Mercury lasts 176 Earth days.
+[Space] Jupiter's Great Red Spot is a storm that has been raging for over 300 years.
+[Space] Venus is the hottest planet in our solar system.
+[Space] The Sun’s core temperature reaches about 15 million °C.
+[Space] Mars has the tallest volcano in the solar system, Olympus Mons.
+[Space] There are more stars in the universe than grains of sand on Earth.
+[Space] The Hubble Space Telescope has observed galaxies over 13 billion light-years away.
+[Space] One million Earths could fit inside the Sun.
+[Space] The Milky Way galaxy is approximately 100,000 light-years across.
+[Space] The Moon is drifting away from Earth at about 3.8 cm per year.
+[Space] There may be a planet made entirely of diamonds.
+[Space] The International Space Station orbits Earth at 28,000 km/h.
+[Space] Saturn’s moon Titan has lakes of liquid methane.
+[Space] The Andromeda Galaxy is expected to collide with the Milky Way in about 4 billion years.
+[Space] A Mars year is 687 Earth days long.
+[Space] The Sun accounts for 99.8% of the total mass in our solar system.
+[Space] Black holes warp both time and space.
+[Space] The largest known star, UY Scuti, could fit 5 billion Suns inside it.
+[Space] A teaspoon of a neutron star would weigh about 6 billion tons.
+
+[Mathematics] Zero is the only number that cannot be represented by Roman numerals.
+[Mathematics] A 'googol' is the number 1 followed by 100 zeros.
+[Mathematics] The Fibonacci sequence appears in nature, such as pine cones and sunflowers.
+[Mathematics] A perfect number is one that equals the sum of its proper divisors.
+[Mathematics] Pi is an irrational number and never ends or repeats.
+[Mathematics] The number 1 is neither prime nor composite.
+[Mathematics] The number 'e' is approximately 2.718 and is fundamental in calculus.
+[Mathematics] The Möbius strip has only one surface and one edge.
+[Mathematics] The Pythagorean theorem states a² + b² = c² for right triangles.
+[Mathematics] The golden ratio (1.618) appears in art, nature, and architecture.
+[Mathematics] The number 7 is often considered the most popular number worldwide.
+[Mathematics] Prime numbers are infinite and never follow a predictable pattern.
+[Mathematics] The largest known prime number has over 24 million digits.
+[Mathematics] 0.999... is mathematically equal to 1.
+[Mathematics] Sudoku puzzles are based on mathematical principles of combinatorics.
+[Mathematics] The four-color theorem proves that any map can be colored using only 4 colors.
+[Mathematics] The infinity symbol (∞) was introduced by John Wallis in 1655.
+[Mathematics] The number 153 is an Armstrong number: 1³ + 5³ + 3³ = 153.
+[Mathematics] Multiplying 111,111,111 × 111,111,111 = 12,345,678,987,654,321.
+[Mathematics] Euler's identity combines five key mathematical constants: e^iπ + 1 = 0.
+
+[Technology] The first computer virus was called "Creeper" and appeared in the 1970s.
+[Technology] The first email was sent by Ray Tomlinson in 1971.
+[Technology] The world's first website is still active at info.cern.ch.
+[Technology] The term "bug" in programming was coined after a real moth was found in a computer.
+[Technology] Google's first storage was built using LEGO bricks.
+[Technology] The QWERTY keyboard was designed to reduce typing jams in typewriters.
+[Technology] The first hard drive could hold only 5 MB of data.
+[Technology] The term "Bluetooth" comes from a Viking king, Harald Bluetooth.
+[Technology] The first computer mouse was made of wood.
+[Technology] Python was named after the British comedy show "Monty Python."
+[Technology] The first smartphone was released in 1992 by IBM.
+[Technology] CAPTCHA stands for "Completely Automated Public Turing test to tell Computers and Humans Apart."
+[Technology] The Apollo 11 guidance computer had less processing power than a modern smartphone.
+[Technology] The first video game was created in 1958 called "Tennis for Two."
+[Technology] Alan Turing is considered the father of modern computer science.
+[Technology] Artificial intelligence can now create realistic human-like text and images.
+[Technology] The term "robot" comes from a Czech word meaning "forced labor."
+[Technology] The first iPod could only hold 1,000 songs.
+[Technology] Cloud computing allows remote data storage and access from anywhere.
+[Technology] The World Wide Web was invented by Tim Berners-Lee in 1989.
+[Science] The speed of light is approximately 299,792 km/s.
+[Science] A single teaspoon of honey represents the life's work of 12 bees.
+[Science] Lightning is five times hotter than the surface of the Sun.
+[Science] The Earth's core is as hot as the surface of the Sun.
+[Science] A human body contains about 37.2 trillion cells.
+[Science] The Eiffel Tower can be 15 cm taller during summer due to heat expansion.
+[Science] The ozone layer absorbs 97-99% of the Sun's harmful UV radiation.
+[Science] The average human body carries ten times more bacterial cells than human cells.
+[Science] The Amazon rainforest produces 20% of the world's oxygen.
+[Science] The blue whale’s heart is as large as a small car.
+[Science] DNA from a single human cell can stretch to about 2 meters in length.
+[Science] A day on Venus is longer than its year.
+[Science] The human brain has around 86 billion neurons.
+[Science] The coldest temperature ever recorded on Earth was -89.2°C in Antarctica.
+[Science] The Earth’s rotation is gradually slowing at about 1.7 milliseconds per century.
+[Science] Sharks existed before trees — over 400 million years ago.
+[Science] The human nose can detect over 1 trillion scents.
+[Science] The Great Barrier Reef is the largest living structure on Earth.
+[Science] The Andromeda Galaxy is moving toward our Milky Way at 110 km/s.
+[Science] The average person sheds around 30,000 skin cells every minute.
+
+[Space] Neutron stars are so dense that a sugar-cube-sized piece weighs as much as a mountain.
+[Space] A day on Mercury lasts 176 Earth days.
+[Space] Jupiter's Great Red Spot is a storm that has been raging for over 300 years.
+[Space] Venus is the hottest planet in our solar system.
+[Space] The Sun’s core temperature reaches about 15 million °C.
+[Space] Mars has the tallest volcano in the solar system, Olympus Mons.
+[Space] There are more stars in the universe than grains of sand on Earth.
+[Space] The Hubble Space Telescope has observed galaxies over 13 billion light-years away.
+[Space] One million Earths could fit inside the Sun.
+[Space] The Milky Way galaxy is approximately 100,000 light-years across.
+[Space] The Moon is drifting away from Earth at about 3.8 cm per year.
+[Space] There may be a planet made entirely of diamonds.
+[Space] The International Space Station orbits Earth at 28,000 km/h.
+[Space] Saturn’s moon Titan has lakes of liquid methane.
+[Space] The Andromeda Galaxy is expected to collide with the Milky Way in about 4 billion years.
+[Space] A Mars year is 687 Earth days long.
+[Space] The Sun accounts for 99.8% of the total mass in our solar system.
+[Space] Black holes warp both time and space.
+[Space] The largest known star, UY Scuti, could fit 5 billion Suns inside it.
+[Space] A teaspoon of a neutron star would weigh about 6 billion tons.
+
+[Mathematics] Zero is the only number that cannot be represented by Roman numerals.
+[Mathematics] A 'googol' is the number 1 followed by 100 zeros.
+[Mathematics] The Fibonacci sequence appears in nature, such as pine cones and sunflowers.
+[Mathematics] A perfect number is one that equals the sum of its proper divisors.
+[Mathematics] Pi is an irrational number and never ends or repeats.
+[Mathematics] The number 1 is neither prime nor composite.
+[Mathematics] The number 'e' is approximately 2.718 and is fundamental in calculus.
+[Mathematics] The Möbius strip has only one surface and one edge.
+[Mathematics] The Pythagorean theorem states a² + b² = c² for right triangles.
+[Mathematics] The golden ratio (1.618) appears in art, nature, and architecture.
+[Mathematics] The number 7 is often considered the most popular number worldwide.
+[Mathematics] Prime numbers are infinite and never follow a predictable pattern.
+[Mathematics] The largest known prime number has over 24 million digits.
+[Mathematics] 0.999... is mathematically equal to 1.
+[Mathematics] Sudoku puzzles are based on mathematical principles of combinatorics.
+[Mathematics] The four-color theorem proves that any map can be colored using only 4 colors.
+[Mathematics] The infinity symbol (∞) was introduced by John Wallis in 1655.
+[Mathematics] The number 153 is an Armstrong number: 1³ + 5³ + 3³ = 153.
+[Mathematics] Multiplying 111,111,111 × 111,111,111 = 12,345,678,987,654,321.
+[Mathematics] Euler's identity combines five key mathematical constants: e^iπ + 1 = 0.
+
+[Technology] The first computer virus was called "Creeper" and appeared in the 1970s.
+[Technology] The first email was sent by Ray Tomlinson in 1971.
+[Technology] The world's first website is still active at info.cern.ch.
+[Technology] The term "bug" in programming was coined after a real moth was found in a computer.
+[Technology] Google's first storage was built using LEGO bricks.
+[Technology] The QWERTY keyboard was designed to reduce typing jams in typewriters.
+[Technology] The first hard drive could hold only 5 MB of data.
+[Technology] The term "Bluetooth" comes from a Viking king, Harald Bluetooth.
+[Technology] The first computer mouse was made of wood.
+[Technology] Python was named after the British comedy show "Monty Python."
+[Technology] The first smartphone was released in 1992 by IBM.
+[Technology] CAPTCHA stands for "Completely Automated Public Turing test to tell Computers and Humans Apart."
+[Technology] The Apollo 11 guidance computer had less processing power than a modern smartphone.
+[Technology] The first video game was created in 1958 called "Tennis for Two."
+[Technology] Alan Turing is considered the father of modern computer science.
+[Technology] Artificial intelligence can now create realistic human-like text and images.
+[Technology] The term "robot" comes from a Czech word meaning "forced labor."
+[Technology] The first iPod could only hold 1,000 songs.
+[Technology] Cloud computing allows remote data storage and access from anywhere.
+[Technology] The World Wide Web was invented by Tim Berners-Lee in 1989.
+[Science] The speed of light is approximately 299,792 km/s.
+[Science] A single teaspoon of honey represents the life's work of 12 bees.
+[Science] Lightning is five times hotter than the surface of the Sun.
+[Science] The Earth's core is as hot as the surface of the Sun.
+[Science] A human body contains about 37.2 trillion cells.
+[Science] The Eiffel Tower can be 15 cm taller during summer due to heat expansion.
+[Science] The ozone layer absorbs 97-99% of the Sun's harmful UV radiation.
+[Science] The average human body carries ten times more bacterial cells than human cells.
+[Science] The Amazon rainforest produces 20% of the world's oxygen.
+[Science] The blue whale’s heart is as large as a small car.
+[Science] DNA from a single human cell can stretch to about 2 meters in length.
+[Science] A day on Venus is longer than its year.
+[Science] The human brain has around 86 billion neurons.
+[Science] The coldest temperature ever recorded on Earth was -89.2°C in Antarctica.
+[Science] The Earth’s rotation is gradually slowing at about 1.7 milliseconds per century.
+[Science] Sharks existed before trees — over 400 million years ago.
+[Science] The human nose can detect over 1 trillion scents.
+[Science] The Great Barrier Reef is the largest living structure on Earth.
+[Science] The Andromeda Galaxy is moving toward our Milky Way at 110 km/s.
+[Science] The average person sheds around 30,000 skin cells every minute.
+
+[Space] Neutron stars are so dense that a sugar-cube-sized piece weighs as much as a mountain.
+[Space] A day on Mercury lasts 176 Earth days.
+[Space] Jupiter's Great Red Spot is a storm that has been raging for over 300 years.
+[Space] Venus is the hottest planet in our solar system.
+[Space] The Sun’s core temperature reaches about 15 million °C.
+[Space] Mars has the tallest volcano in the solar system, Olympus Mons.
+[Space] There are more stars in the universe than grains of sand on Earth.
+[Space] The Hubble Space Telescope has observed galaxies over 13 billion light-years away.
+[Space] One million Earths could fit inside the Sun.
+[Space] The Milky Way galaxy is approximately 100,000 light-years across.
+[Space] The Moon is drifting away from Earth at about 3.8 cm per year.
+[Space] There may be a planet made entirely of diamonds.
+[Space] The International Space Station orbits Earth at 28,000 km/h.
+[Space] Saturn’s moon Titan has lakes of liquid methane.
+[Space] The Andromeda Galaxy is expected to collide with the Milky Way in about 4 billion years.
+[Space] A Mars year is 687 Earth days long.
+[Space] The Sun accounts for 99.8% of the total mass in our solar system.
+[Space] Black holes warp both time and space.
+[Space] The largest known star, UY Scuti, could fit 5 billion Suns inside it.
+[Space] A teaspoon of a neutron star would weigh about 6 billion tons.
+
+[Mathematics] Zero is the only number that cannot be represented by Roman numerals.
+[Mathematics] A 'googol' is the number 1 followed by 100 zeros.
+[Mathematics] The Fibonacci sequence appears in nature, such as pine cones and sunflowers.
+[Mathematics] A perfect number is one that equals the sum of its proper divisors.
+[Mathematics] Pi is an irrational number and never ends or repeats.
+[Mathematics] The number 1 is neither prime nor composite.
+[Mathematics] The number 'e' is approximately 2.718 and is fundamental in calculus.
+[Mathematics] The Möbius strip has only one surface and one edge.
+[Mathematics] The Pythagorean theorem states a² + b² = c² for right triangles.
+[Mathematics] The golden ratio (1.618) appears in art, nature, and architecture.
+[Mathematics] The number 7 is often considered the most popular number worldwide.
+[Mathematics] Prime numbers are infinite and never follow a predictable pattern.
+[Mathematics] The largest known prime number has over 24 million digits.
+[Mathematics] 0.999... is mathematically equal to 1.
+[Mathematics] Sudoku puzzles are based on mathematical principles of combinatorics.
+[Mathematics] The four-color theorem proves that any map can be colored using only 4 colors.
+[Mathematics] The infinity symbol (∞) was introduced by John Wallis in 1655.
+[Mathematics] The number 153 is an Armstrong number: 1³ + 5³ + 3³ = 153.
+[Mathematics] Multiplying 111,111,111 × 111,111,111 = 12,345,678,987,654,321.
+[Mathematics] Euler's identity combines five key mathematical constants: e^iπ + 1 = 0.
+
+[Technology] The first computer virus was called "Creeper" and appeared in the 1970s.
+[Technology] The first email was sent by Ray Tomlinson in 1971.
+[Technology] The world's first website is still active at info.cern.ch.
+[Technology] The term "bug" in programming was coined after a real moth was found in a computer.
+[Technology] Google's first storage was built using LEGO bricks.
+[Technology] The QWERTY keyboard was designed to reduce typing jams in typewriters.
+[Technology] The first hard drive could hold only 5 MB of data.
+[Technology] The term "Bluetooth" comes from a Viking king, Harald Bluetooth.
+[Technology] The first computer mouse was made of wood.
+[Technology] Python was named after the British comedy show "Monty Python."
+[Technology] The first smartphone was released in 1992 by IBM.
+[Technology] CAPTCHA stands for "Completely Automated Public Turing test to tell Computers and Humans Apart."
+[Technology] The Apollo 11 guidance computer had less processing power than a modern smartphone.
+[Technology] The first video game was created in 1958 called "Tennis for Two."
+[Technology] Alan Turing is considered the father of modern computer science.
+[Technology] Artificial intelligence can now create realistic human-like text and images.
+[Technology] The term "robot" comes from a Czech word meaning "forced labor."
+[Technology] The first iPod could only hold 1,000 songs.
+[Technology] Cloud computing allows remote data storage and access from anywhere.
+[Technology] The World Wide Web was invented by Tim Berners-Lee in 1989.
+
+[Science] The speed of light is approximately 299,792 km/s.
+[Science] A single teaspoon of honey represents the life's work of 12 bees.
+[Science] Lightning is five times hotter than the surface of the Sun.
+[Science] The Earth's core is as hot as the surface of the Sun.
+[Science] A human body contains about 37.2 trillion cells.
+[Science] The Eiffel Tower can be 15 cm taller during summer due to heat expansion.
+[Science] The ozone layer absorbs 97-99% of the Sun's harmful UV radiation.
+[Science] The average human body carries ten times more bacterial cells than human cells.
+[Science] The Amazon rainforest produces 20% of the world's oxygen.
+[Science] The blue whale’s heart is as large as a small car.
+[Science] DNA from a single human cell can stretch to about 2 meters in length.
+[Science] A day on Venus is longer than its year.
+[Science] The human brain has around 86 billion neurons.
+[Science] The coldest temperature ever recorded on Earth was -89.2°C in Antarctica.
+[Science] The Earth’s rotation is gradually slowing at about 1.7 milliseconds per century.
+[Science] Sharks existed before trees — over 400 million years ago.
+[Science] The human nose can detect over 1 trillion scents.
+[Science] The Great Barrier Reef is the largest living structure on Earth.
+[Science] The Andromeda Galaxy is moving toward our Milky Way at 110 km/s.
+[Science] The average person sheds around 30,000 skin cells every minute.
+
+[Space] Neutron stars are so dense that a sugar-cube-sized piece weighs as much as a mountain.
+[Space] A day on Mercury lasts 176 Earth days.
+[Space] Jupiter's Great Red Spot is a storm that has been raging for over 300 years.
+[Space] Venus is the hottest planet in our solar system.
+[Space] The Sun’s core temperature reaches about 15 million °C.
+[Space] Mars has the tallest volcano in the solar system, Olympus Mons.
+[Space] There are more stars in the universe than grains of sand on Earth.
+[Space] The Hubble Space Telescope has observed galaxies over 13 billion light-years away.
+[Space] One million Earths could fit inside the Sun.
+[Space] The Milky Way galaxy is approximately 100,000 light-years across.
+[Space] The Moon is drifting away from Earth at about 3.8 cm per year.
+[Space] There may be a planet made entirely of diamonds.
+[Space] The International Space Station orbits Earth at 28,000 km/h.
+[Space] Saturn’s moon Titan has lakes of liquid methane.
+[Space] The Andromeda Galaxy is expected to collide with the Milky Way in about 4 billion years.
+[Space] A Mars year is 687 Earth days long.
+[Space] The Sun accounts for 99.8% of the total mass in our solar system.
+[Space] Black holes warp both time and space.
+[Space] The largest known star, UY Scuti, could fit 5 billion Suns inside it.
+[Space] A teaspoon of a neutron star would weigh about 6 billion tons.
+
+[Mathematics] Zero is the only number that cannot be represented by Roman numerals.
+[Mathematics] A 'googol' is the number 1 followed by 100 zeros.
+[Mathematics] The Fibonacci sequence appears in nature, such as pine cones and sunflowers.
+[Mathematics] A perfect number is one that equals the sum of its proper divisors.
+[Mathematics] Pi is an irrational number and never ends or repeats.
+[Mathematics] The number 1 is neither prime nor composite.
+[Mathematics] The number 'e' is approximately 2.718 and is fundamental in calculus.
+[Mathematics] The Möbius strip has only one surface and one edge.
+[Mathematics] The Pythagorean theorem states a² + b² = c² for right triangles.
+[Mathematics] The golden ratio (1.618) appears in art, nature, and architecture.
+[Mathematics] The number 7 is often considered the most popular number worldwide.
+[Mathematics] Prime numbers are infinite and never follow a predictable pattern.
+[Mathematics] The largest known prime number has over 24 million digits.
+[Mathematics] 0.999... is mathematically equal to 1.
+[Mathematics] Sudoku puzzles are based on mathematical principles of combinatorics.
+[Mathematics] The four-color theorem proves that any map can be colored using only 4 colors.
+[Mathematics] The infinity symbol (∞) was introduced by John Wallis in 1655.
+[Mathematics] The number 153 is an Armstrong number: 1³ + 5³ + 3³ = 153.
+[Mathematics] Multiplying 111,111,111 × 111,111,111 = 12,345,678,987,654,321.
+[Mathematics] Euler's identity combines five key mathematical constants: e^iπ + 1 = 0.
+
+[Technology] The first computer virus was called "Creeper" and appeared in the 1970s.
+[Technology] The first email was sent by Ray Tomlinson in 1971.
+[Technology] The world's first website is still active at info.cern.ch.
+[Technology] The term "bug" in programming was coined after a real moth was found in a computer.
+[Technology] Google's first storage was built using LEGO bricks.
+[Technology] The QWERTY keyboard was designed to reduce typing jams in typewriters.
+[Technology] The first hard drive could hold only 5 MB of data.
+[Technology] The term "Bluetooth" comes from a Viking king, Harald Bluetooth.
+[Technology] The first computer mouse was made of wood.
+[Technology] Python was named after the British comedy show "Monty Python."
+[Technology] The first smartphone was released in 1992 by IBM.
+[Technology] CAPTCHA stands for "Completely Automated Public Turing test to tell Computers and Humans Apart."
+[Technology] The Apollo 11 guidance computer had less processing power than a modern smartphone.
+[Technology] The first video game was created in 1958 called "Tennis for Two."
+[Technology] Alan Turing is considered the father of modern computer science.
+[Technology] Artificial intelligence can now create realistic human-like text and images.
+[Technology] The term "robot" comes from a Czech word meaning "forced labor."
+[Technology] The first iPod could only hold 1,000 songs.
+[Technology] Cloud computing allows remote data storage and access from anywhere.
+[Technology] The World Wide Web was invented by Tim Berners-Lee in 1989.
+[Engineering] The Eiffel Tower is repainted every seven years with 60 tons of paint.
+[Engineering] The Burj Khalifa is the tallest building in the world at 828 meters.
+[Engineering] The Panama Canal uses massive locks to raise and lower ships.
+[Engineering] Wind turbines can be taller than the Statue of Liberty.
+[Engineering] The Golden Gate Bridge can withstand winds of over 100 mph.
+[Engineering] The Channel Tunnel connects the UK and France via 50 km of tunnel.
+[Engineering] The International Space Station was assembled in orbit over 13 years.
+[Engineering] The Millau Viaduct in France is the tallest bridge in the world.
+[Engineering] The Hoover Dam can generate enough electricity to power over a million homes.
+[Engineering] Skyscrapers use tuned mass dampers to reduce swaying from wind.
+[Engineering] The Eiffel Tower is repainted every seven years with 60 tons of paint.
+[Engineering] The Burj Khalifa is the tallest building in the world at 828 meters.
+[Engineering] The Panama Canal uses massive locks to raise and lower ships.
+[Engineering] Wind turbines can be taller than the Statue of Liberty.
+[Engineering] The Golden Gate Bridge can withstand winds of over 100 mph.
+[Engineering] The Channel Tunnel connects the UK and France via 50 km of tunnel.
+[Engineering] The International Space Station was assembled in orbit over 13 years.
+[Engineering] The Millau Viaduct in France is the tallest bridge in the world.
+[Engineering] The Hoover Dam can generate enough electricity to power over a million homes.
+[Engineering] Skyscrapers use tuned mass dampers to reduce swaying from wind.
+[Engineering] 3D printing technology is now used to construct buildings layer by layer.
+[Engineering] The first steam engine was developed by Thomas Newcomen in 1712.
+[Engineering] The world's longest bridge is the Danyang–Kunshan Grand Bridge in China.
+[Engineering] The Akashi Kaikyō Bridge in Japan has the longest central span of any suspension bridge.
+[Engineering] Engineers use wind tunnels to simulate and test aerodynamic designs.
+[Engineering] Modern electric cars use regenerative braking to improve efficiency.
+[Engineering] Civil engineers design earthquake-resistant buildings using flexible foundations.
+[Engineering] The world's deepest mine, Mponeng Gold Mine in South Africa, reaches over 4 km deep.
+[Engineering] Smart grids use digital technology to manage energy efficiently.
+[Engineering] The world's first programmable computer, the Z3, was created in 1941.
+[Engineering] Robotics engineering is advancing towards developing autonomous robots for complex tasks.
+[CSE] The first computer virus, "Creeper," was detected in the 1970s.
+[CSE] The term "debugging" originated when a moth was found in a computer.
+[CSE] Python is one of the most popular programming languages today.
+[CSE] The Turing machine was conceptualized by Alan Turing in 1936.
+[CSE] The world's first website is still active at info.cern.ch.
+[CSE] The first email was sent by Ray Tomlinson in 1971.
+[CSE] CAPTCHA was created to differentiate between humans and bots.
+[CSE] Google's first server storage was built using LEGO bricks.
+[CSE] The first computer mouse was invented by Douglas Engelbart in 1964.
+[CSE] The ENIAC computer contained over 17,000 vacuum tubes and weighed 30 tons.
+[CSE] The world's fastest supercomputer can perform over 1 quintillion calculations per second.
+[CSE] The binary number system forms the foundation of modern computing.
+[CSE] Cloud computing allows remote data storage and scalable web applications.
+[CSE] The term "Bluetooth" is inspired by King Harald Bluetooth of Denmark.
+[CSE] The "QWERTY" keyboard layout was designed to prevent typewriter jams.
+[CSE] The ASCII system assigns numeric codes to text characters in computers.
+[CSE] Virtual reality headsets track head movement to simulate immersive environments.
+[CSE] The first programming language, Fortran, was developed in the 1950s.
+[CSE] Data compression algorithms like ZIP reduce file sizes for storage efficiency.
+[CSE] Alan Turing's "Turing Test" remains a key concept in artificial intelligence.
+[Entertainment] The Marvel Cinematic Universe (MCU) is the highest-grossing film franchise of all time.
+[Entertainment] The movie 'Avengers: Endgame' earned over $2.7 billion worldwide, becoming one of the highest-grossing films ever. 
+[Entertainment] The film 'KGF: Chapter 2' broke multiple records in Indian cinema with its box office success. 
+[Entertainment] The iconic 'I am Iron Man' scene in 'Avengers: Endgame' was improvised by Robert Downey Jr. 
+[Entertainment] The first video game, 'Tennis for Two,' was created in 1958 by William Higinbotham. 
+[Entertainment] The 'Grand Theft Auto' series is one of the best-selling video game franchises of all time. 
+[Entertainment] The movie 'Avatar' was the first film to cross the $2 billion mark worldwide. [Entertainment] The 'Super Mario' series by Nintendo has sold over 380 million copies worldwide. 
+[Entertainment] The game 'Minecraft' is the best-selling video game of all time, with over 200 million copies sold. 
+[Entertainment] The 'John Wick' franchise is known for its intense action sequences and unique world-building. 
+[Entertainment] The movie 'Interstellar' scientifically depicts black holes using accurate visual models. 
+[Entertainment] The game 'The Witcher 3: Wild Hunt' won over 250 Game of the Year awards. [Entertainment] The film 'Inception' uses practical effects like rotating sets for mind-bending scenes. 
+[Entertainment] The movie 'Joker' was the first R-rated film to earn over $1 billion at the box office. 
+[Entertainment] The 'FIFA' game series is one of the most popular sports video games in the world. 
+[Entertainment] The 'Harry Potter' series has sold over 500 million copies in book form worldwide. 
+[Entertainment] The game 'PUBG' became a global sensation with its battle royale mode. [Entertainment] 'The Dark Knight' is the first superhero film to win an Academy Award for acting (Heath Ledger as Joker). 
+[Entertainment] The 'Fast & Furious' franchise is famous for its high-octane car chases and stunts. 
+[Entertainment] The movie 'RRR' became the first Indian film to win a Golden Globe for Best Original Song.
+[Fun Facts] A group of flamingos is called a 'flamboyance.'
+[Fun Facts] Bananas are berries, but strawberries aren't.
+[Fun Facts] Honey never spoils and can last for thousands of years.
+[Fun Facts] Octopuses have three hearts and blue blood.
+[Fun Facts] Wombat poop is cube-shaped to prevent it from rolling away.
+[Fun Facts] The Eiffel Tower can grow taller by up to 15 cm during summer.
+[Fun Facts] Cats can make over 100 different sounds.
+[Fun Facts] A day on Venus is longer than its year.
+[Fun Facts] The shortest war in history lasted only 38 to 45 minutes between Britain and Zanzibar.
+[Fun Facts] Sloths can hold their breath for longer than dolphins.
+[Fun Facts] The unicorn is Scotland's national animal.
+[Fun Facts] Some species of jellyfish are biologically immortal.
+[Fun Facts] Peanuts are not nuts; they belong to the legume family.
+[Fun Facts] The human brain generates enough electricity to power a small light bulb.
+[Fun Facts] The 'M' in M&M's stands for Mars and Murrie, the candy's founders.
+[Fun Facts] A bolt of lightning can reach temperatures five times hotter than the surface of the Sun.
+[Fun Facts] The 'E' in the 'Eiffel Tower' stands for its designer, Gustave Eiffel.
+[Fun Facts] Giraffes only need 5 to 30 minutes of sleep per day.
+[Fun Facts] The Great Wall of China is not visible from space with the naked eye.
+[Fun Facts] The average person will walk the equivalent of five times around the Earth in their lifetime.
+[AI] The term 'Artificial Intelligence' was first coined by John McCarthy in 1956.
+[AI] The first AI program, called the Logic Theorist, was designed to mimic human problem-solving skills.
+[AI] AI systems like OpenAI's GPT models can generate human-like text with remarkable accuracy.
+[AI] The Turing Test, proposed by Alan Turing, evaluates a machine's ability to exhibit human-like intelligence.
+[AI] Deep Blue, an AI system, defeated chess grandmaster Garry Kasparov in 1997.
+[AI] AI can now create realistic deepfake videos that are nearly indistinguishable from real footage.
+[AI] Self-driving cars use AI algorithms to interpret road conditions and make driving decisions.
+[AI] The first chatbot, ELIZA, was created in 1966 and simulated human conversation.
+[AI] Neural networks are inspired by the structure of the human brain.
+[AI] AI is widely used in healthcare for diagnosing diseases, developing drugs, and personalizing treatment plans.
+[AI] Google's AI program, AlphaGo, defeated world champions in the complex board game Go.
+[AI] AI can now generate lifelike images, voices, and even compose music using advanced algorithms. 
+[AI] AI assistants like Siri, Alexa, and Google Assistant rely on natural language processing (NLP) models. 
+[AI] The concept of machine learning allows AI systems to improve performance through experience. 
+[AI] AI is used in fraud detection systems to identify suspicious transactions. 
+[AI] Reinforcement learning is a technique where AI learns by trial and error, much like humans do. 
+[AI] AI is transforming industries such as finance, gaming, and entertainment. 
+[AI] The GPT series, developed by OpenAI, is one of the most advanced language models to date. 
+[AI] AI-driven recommendation systems are commonly used in platforms like Netflix and YouTube. 
+[AI] The first AI-generated artwork was sold for $432,500 at an auction in 2018.
+[Programming] Python was created by Guido van Rossum and released in 1991.
+[Programming] The 'C' programming language was developed by Dennis Ritchie in 1972.
+[Programming] Java was developed by James Gosling at Sun Microsystems in 1995.
+[Programming] HTML stands for HyperText Markup Language and is used to structure web pages.
+[Programming] CSS (Cascading Style Sheets) is used to style the appearance of web pages.
+[Programming] JavaScript was created by Brendan Eich in just 10 days in 1995.
+[Programming] Python is known for its readability and is often used for data science and AI development.
+[Programming] The 'C' language influenced many modern languages like C++, Java, and Python.
+[Programming] Java follows the "Write Once, Run Anywhere" principle.
+[Programming] HTML5 introduced new elements like  and  for multimedia support.
+[Programming] CSS Flexbox is a layout module designed to improve responsiveness and alignment in web design.
+[Programming] JavaScript's "console.log()" is commonly used for debugging code.
+[Programming] Python's indentation-based syntax enforces clean code formatting.
+[Programming] The C++ language is an extension of C that introduced object-oriented programming.
+[Programming] Java's syntax is heavily influenced by C and C++.
+[Programming] HTML is not a programming language but a markup language.
+[Programming] CSS Grid is a powerful layout system for web page structure.
+[Programming] JavaScript engines like V8 power modern browsers like Chrome.
+[Programming] Python's "import this" command reveals the Zen of Python, guiding principles for Python programming.
+[Programming] The 'Hello World' program is the first code example for many languages.
+[Programming] The C language is widely used in operating systems like Linux and Windows.
+[Programming] Java's virtual machine (JVM) allows Java programs to run on various platforms.
+[Programming] HTML5 introduced semantic tags like , , and .
+[Programming] CSS animations can create dynamic web page effects without JavaScript.
+[Programming] JavaScript's "addEventListener()" method handles user interactions.
+[Programming] Python is extensively used in AI, machine learning, and data analysis.
+[Programming] C++ introduced concepts like classes, inheritance, and polymorphism.
+[Programming] Java's strong memory management reduces the risk of memory leaks.
+[Programming] HTML forms are used to collect user input on web pages.
+[Programming] CSS media queries enable responsive design for different screen sizes.
+[Programming] JavaScript's "JSON" (JavaScript Object Notation) is a popular data format for APIs.
+[Programming] Python libraries like NumPy, pandas, and TensorFlow are vital for data science.
+[Programming] The C language is still widely used in embedded systems and hardware programming.
+[Programming] Java's "Swing" library is used to create graphical user interfaces.
+[Programming] HTML's  element allows for dynamic graphics using JavaScript.
+[Programming] CSS pseudo-classes like ":hover" enable interactive designs.
+[Programming] JavaScript's "fetch()" method simplifies API requests.
+[Programming] Python's "list comprehensions" provide concise ways to manipulate data.
+[Programming] C++ supports both procedural and object-oriented programming styles.
+[Programming] Java's "Servlets" are used for server-side web applications.
+[Programming] HTML's "meta" tags improve SEO and control page behavior.
+[Programming] CSS variables (custom properties) simplify consistent styling.
+[Programming] JavaScript frameworks like React, Angular, and Vue improve web development.
+[Programming] Python's "tkinter" module creates simple GUI applications.
+[Programming] The 'C' language was instrumental in developing the UNIX operating system.
+[Programming] Java's "Spring" framework is widely used in enterprise applications.
+[Programming] HTML's "alt" attribute improves accessibility for images.
+[Programming] CSS "z-index" controls element stacking order on web pages.
+[Programming] JavaScript's "async/await" syntax simplifies asynchronous code handling.
+[Programming] Python's "virtual environment" feature isolates project dependencies.
+[Programming] The C++ Standard Library (STL) provides powerful data structures and algorithms.
+[Programming] Java's "JSP" (JavaServer Pages) helps create dynamic web content.
+[Programming] HTML5 introduced the "drag and drop" API for improved interactivity.
+[Programming] Python's "Django" framework simplifies web development with its clean design.
+[Programming] JavaScript's "localStorage" stores data persistently in the browser.
+[Programming] C++ introduced the "auto" keyword for automatic type inference.
+[Programming] Java's "HashMap" is a widely used data structure for fast key-value lookups.
+[Programming] HTML's "placeholder" attribute helps guide user input in forms.
+[Programming] CSS "box-shadow" adds stylish shadows to elements for improved UI design.
+[Programming] Python's "f-strings" provide a concise way to format strings.
+[Programming] JavaScript's "map()" function simplifies array transformations.
+[Programming] Python's "pip" package manager simplifies library installations.
+[Programming] HTML5 introduced the "progress" element for progress bars.
+[Programming] CSS's "position: sticky;" makes elements stick to the viewport.
+[Programming] Java's "try-catch" block is essential for handling exceptions.
+[Programming] Python's "os" module provides functions for interacting with the operating system.
+[Programming] JavaScript's "reduce()" function is powerful for data aggregation.
+[Programming] Python's "with" statement simplifies resource management.
+[Inventions & Discoveries] The microwave oven was invented accidentally by Percy Spencer while working with radar equipment.
+[Inventions & Discoveries] The first practical telephone was invented by Alexander Graham Bell in 1876.
+[Inventions & Discoveries] The X-ray machine was discovered by Wilhelm Roentgen in 1895.
+[Inventions & Discoveries] The world's first mechanical computer, the Analytical Engine, was designed by Charles Babbage.
+[Inventions & Discoveries] The Wright brothers achieved the first powered flight in 1903.
+[Inventions & Discoveries] The first electric battery was invented by Alessandro Volta in 1800.
+[Inventions & Discoveries] The discovery of penicillin by Alexander Fleming in 1928 revolutionized medicine.
+[Inventions & Discoveries] The concept of the World Wide Web was introduced by Tim Berners-Lee in 1989.
+[Inventions & Discoveries] The first 3D printer was developed by Chuck Hull in 1983.
+[Inventions & Discoveries] Velcro was inspired by burrs that stuck to Georges de Mestral's dog.
+[Inventions & Discoveries] The first digital camera was invented by Steven Sasson in 1975.
+[Inventions & Discoveries] The steam engine was developed by James Watt, revolutionizing industry and transport.
+[Inventions & Discoveries] The concept of wireless communication was first demonstrated by Nikola Tesla.
+[Inventions & Discoveries] The printing press, invented by Johannes Gutenberg, transformed communication in the 15th century.
+[Inventions & Discoveries] The invention of the light bulb is credited to Thomas Edison, though several inventors contributed to its development.
+[Inventions & Discoveries] The first computer mouse was invented by Douglas Engelbart in 1964 and was made of wood.
+[Inventions & Discoveries] The Rubik's Cube was invented by Ernő Rubik in 1974 as a teaching tool for geometry.
+[Inventions & Discoveries] The discovery of DNA's double-helix structure was made by James Watson and Francis Crick in 1953.
+[Inventions & Discoveries] The ballpoint pen was patented by László Bíró in 1938.
+[Inventions & Discoveries] The first successful vaccine was developed by Edward Jenner in 1796 to prevent smallpox.
+[Inventions & Discoveries] The concept of alternating current (AC) power systems was popularized by Nikola Tesla.
+[Inventions & Discoveries] The first practical electric car was built by Thomas Parker in 1884.
+[Inventions & Discoveries] The safety elevator, which enabled modern skyscrapers, was invented by Elisha Otis in 1852.
+[Inventions & Discoveries] The first ATM (Automated Teller Machine) was introduced by John Shepherd-Barron in 1967.
+[Inventions & Discoveries] The discovery of insulin as a treatment for diabetes was credited to Frederick Banting and Charles Best in 1921.
+[Inventions & Discoveries] The development of the integrated circuit by Jack Kilby and Robert Noyce in 1958 paved the way for modern electronics.
+[Inventions & Discoveries] The first pocket calculator was invented by Texas Instruments in 1967.
+[Inventions & Discoveries] The invention of the microwave popcorn bag was patented by General Mills in 1981.
+[Inventions & Discoveries] The invention of the compact disc (CD) was developed by Philips and Sony in 1982.
+[Inventions & Discoveries] The first electric guitar was invented by George Beauchamp in 1931, leading to modern rock music.
+[Inventions & Discoveries] The zipper was invented by Gideon Sundback in 1913.
+[Inventions & Discoveries] The first typewriter was patented by Christopher Latham Sholes in 1868.
+[Inventions & Discoveries] The invention of the electric fan is credited to Schuyler Wheeler in 1886.
+[Inventions & Discoveries] The first wristwatch was created by Patek Philippe in 1868 for Countess Koscowicz of Hungary.
+[Inventions & Discoveries] The invention of the air conditioner by Willis Carrier in 1902 revolutionized comfort in homes and workplaces.
+[Inventions & Discoveries] The first video game, "Tennis for Two," was created by William Higinbotham in 1958.
+[Inventions & Discoveries] The disposable razor was invented by King Camp Gillette in 1901.
+[Inventions & Discoveries] The invention of the stethoscope by René Laennec in 1816 improved medical diagnostics.
+[Inventions & Discoveries] The first contact lenses were created by Adolf Fick in 1887.
+[Inventions & Discoveries] The invention of the first synthetic plastic, Bakelite, was developed by Leo Baekeland in 1907.
+[Inventions & Discoveries] The first email was sent by Ray Tomlinson in 1971.
+[Inventions & Discoveries] The concept of GPS (Global Positioning System) was developed by the U.S. Department of Defense in 1973.
+[Inventions & Discoveries] The invention of Teflon was accidental, discovered by Roy Plunkett in 1938.
+[Inventions & Discoveries] The first successful powered submarine was designed by John Philip Holland in 1898.
+[Inventions & Discoveries] The first washing machine was patented by Alva J. Fisher in 1910.
+[Inventions & Discoveries] The first mechanical clock was created in the 13th century by Richard of Wallingford.
+[Inventions & Discoveries] The invention of the pacemaker is credited to Wilson Greatbatch in 1958.
+[Inventions & Discoveries] The first hearing aid was invented by Miller Reese Hutchison in 1898.
+[Inventions & Discoveries] The invention of the laser was pioneered by Theodore Maiman in 1960.
+[Inventions & Discoveries] The first successful artificial heart transplant was performed by Dr. Barney Clark in 1982.
+
+
+
+
+
+
+
+
+
+
+
+
+
