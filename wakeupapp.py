@@ -132,6 +132,7 @@ MDScreenManager:
             on_release: app.change_screen("login")
 
 <HomeScreen>:
+
     name: "home"
     MDBoxLayout:
         orientation: "vertical"
@@ -705,3 +706,4 @@ class WakeUpApp(MDApp):
 
 if __name__ == "__main__":
     WakeUpApp().run()
+
